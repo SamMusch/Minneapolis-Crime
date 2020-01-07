@@ -13,3 +13,5 @@ The repository also contains the PPT we used for the voicethread, the flyer we u
 * 4. Flyer_Team 15_Predicting Crime in Minneapolis.pdf - Takeaway hand-out distributed at the booth on final presentation day
 * 5. Marketing Poster.pdf - Marketing poster setup at 3 spots as standalone advertising terminals. The content was created based on learnings from Lee Thomas's session on 'Elevator Pitches'
 * 5. Trends Final Presentation_Use Cases for booth.pptx - These use cases and insights were showcased on a pull-out display board, to demonstrate the real-life application of the analysis and solution. This includes visualizations made in both Tableau as well as Amazon Quicksight
+
+Sample of some images created by Sara and Saad: https://imgur.com/a/laJm0tK
