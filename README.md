@@ -2,6 +2,8 @@
 
 Team Members - Patrick Hoban, Sam Musch, Rikarnob Bhattacharya, Sarah Wang, Mohammed Saad Ahmad, Yuwen Yan
 
+[Tableau Map](https://public.tableau.com/profile/sam.musch#!/vizhome/MinneapolisCrime/Sheet1)
+
 Repository for all codes we used for the Fall Trends Marketplace Project. This repository contains code that was used to access Twitter API, merge it with crimes, poverty and weather data as well as code used for training the XgBoost model (used for time series prediction).
 
 The repository also contains the PPT we used for the voicethread, the flyer we used for the Marketplace event and the dashboard that was on display.
